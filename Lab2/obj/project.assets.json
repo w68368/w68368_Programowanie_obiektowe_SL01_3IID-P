@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w68368\\source\\repos\\Lab2\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "F:\\w68368_Programowanie_obiektowe_SL01_3IID-P\\Lab2\\Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "C:\\Users\\w68368\\source\\repos\\Lab2\\Lab2\\Lab2.csproj",
+      "projectPath": "F:\\w68368_Programowanie_obiektowe_SL01_3IID-P\\Lab2\\Lab2.csproj",
       "packagesPath": "C:\\Users\\w68368\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w68368\\source\\repos\\Lab2\\Lab2\\obj\\",
+      "outputPath": "F:\\w68368_Programowanie_obiektowe_SL01_3IID-P\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
